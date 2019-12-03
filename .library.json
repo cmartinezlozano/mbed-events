@@ -1,0 +1,39 @@
+{
+    "authors": [
+        {
+            "email": null, 
+            "url": "https://os.mbed.com/users/geky/", 
+            "maintainer": false, 
+            "name": "Christopher Haster"
+        }
+    ], 
+    "description": "From github.com/armmbed/mbed-events!", 
+    "examples": [
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "keywords": [
+        "mbed-events"
+    ], 
+    "name": "events", 
+    "platforms": [
+        "atmelsam", 
+        "freescalekinetis", 
+        "maxim32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nxplpc", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "teensy", 
+        "wiznet7500"
+    ], 
+    "repository": {
+        "type": "hg", 
+        "url": "https://os.mbed.com/users/geky/code/events/"
+    }, 
+    "version": "a15108e", 
+    "id": 2302
+}
